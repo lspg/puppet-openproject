@@ -8,7 +8,6 @@
 	"project_page": "https://github.com/lspg/puppet-openproject",
 	"issues_url": "https://github.com/lspg/puppet-openproject/issues",
 	"dependencies": [
-		{"name":"puppetlabs/stdlib","version_requirement":">= 1.0.0"},
 		{"name":"puppetlabs/apt","version_requirement":">= 2.2.2"},
 		{"name":"puppetlabs/ntp","version_requirement":">= 4.1.2"},
 		{"name":"puppetlabs/git","version_requirement":">= 0.4.0"}
